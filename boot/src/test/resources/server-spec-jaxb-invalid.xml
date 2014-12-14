@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xs2:server SYSTEM "server-spec-jaxb.dtd">
+<xs2:server xmlns:xs2="http://www.opsource.net/simpleapp">
+    <xs2:id>2</xs2:id>
+    <xs2:name>YourServer</xs2:name>
+</xs2:server>

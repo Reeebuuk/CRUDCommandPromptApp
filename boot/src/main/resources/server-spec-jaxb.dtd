@@ -1,0 +1,13 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT xs2:server (xs2:id,xs2:name)>
+<!ATTLIST xs2:server
+    xmlns:xs2 CDATA #FIXED 'http://www.opsource.net/simpleapp'>
+
+<!ELEMENT xs2:id (#PCDATA)>
+<!ATTLIST xs2:id
+    xmlns:xs2 CDATA #FIXED 'http://www.opsource.net/simpleapp'>
+
+<!ELEMENT xs2:name (#PCDATA)>
+<!ATTLIST xs2:name
+    xmlns:xs2 CDATA #FIXED 'http://www.opsource.net/simpleapp'>
