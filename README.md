@@ -1,10 +1,11 @@
 One of my interview assignments:
 
 Solved with  Java 8, Spring Boot, Spring Data JPA, Hibernate, Mockito, H2.
+
 Added queryDSL example
 
-XML validation  can be turned on/off in properties file
-XSD/DTD XML validation
+<p>XML validation  can be turned on/off in properties file</p>
+<p>XSD/DTD XML validation</p>
 SAX/DOM XML parsers
 
 TASK:
